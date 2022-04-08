@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinMarketCap.WebApi", "CoinMarketCap.WebApi\CoinMarketCap.WebApi.csproj", "{AB7D3BB5-2554-44CC-B9B6-586ADD6576B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinMarketCap", "CoinMarketCap\CoinMarketCap.csproj", "{A7AF7252-EAE9-49D3-93A7-769613EAD764}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinMarketCap.Dal", "CoinMarketCap.Dal\CoinMarketCap.Dal.csproj", "{34A6E961-DBB6-4C21-8080-CA016FC7A287}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinMarketCap.Tests", "CoinMarketCap.Tests\CoinMarketCap.Tests.csproj", "{CA483E71-1C34-4028-B4C6-257101B47327}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "External", "External", "{1D33D70B-72DE-4C92-9AC0-CCFEBE7DAD2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cryptaur.Burse.Contract", "External\Cryptaur.Burse.Contract\Cryptaur.Burse.Contract.csproj", "{E382D825-74DF-4069-A2EB-E7ABED4A83DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinMarketCap.WebApi.Tests", "CoinMarketCap.WebApi.Tests\CoinMarketCap.WebApi.Tests.csproj", "{61660F1C-8F2B-4825-B376-98ADCEE1719B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7D3BB5-2554-44CC-B9B6-586ADD6576B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7D3BB5-2554-44CC-B9B6-586ADD6576B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7D3BB5-2554-44CC-B9B6-586ADD6576B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7D3BB5-2554-44CC-B9B6-586ADD6576B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7AF7252-EAE9-49D3-93A7-769613EAD764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7AF7252-EAE9-49D3-93A7-769613EAD764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7AF7252-EAE9-49D3-93A7-769613EAD764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7AF7252-EAE9-49D3-93A7-769613EAD764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A6E961-DBB6-4C21-8080-CA016FC7A287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A6E961-DBB6-4C21-8080-CA016FC7A287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A6E961-DBB6-4C21-8080-CA016FC7A287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A6E961-DBB6-4C21-8080-CA016FC7A287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA483E71-1C34-4028-B4C6-257101B47327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA483E71-1C34-4028-B4C6-257101B47327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA483E71-1C34-4028-B4C6-257101B47327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA483E71-1C34-4028-B4C6-257101B47327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E382D825-74DF-4069-A2EB-E7ABED4A83DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E382D825-74DF-4069-A2EB-E7ABED4A83DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E382D825-74DF-4069-A2EB-E7ABED4A83DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E382D825-74DF-4069-A2EB-E7ABED4A83DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61660F1C-8F2B-4825-B376-98ADCEE1719B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61660F1C-8F2B-4825-B376-98ADCEE1719B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61660F1C-8F2B-4825-B376-98ADCEE1719B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61660F1C-8F2B-4825-B376-98ADCEE1719B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E382D825-74DF-4069-A2EB-E7ABED4A83DA} = {1D33D70B-72DE-4C92-9AC0-CCFEBE7DAD2C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CFD81D9-F82A-4332-9EBA-8559768C6B27}
+	EndGlobalSection
+EndGlobal

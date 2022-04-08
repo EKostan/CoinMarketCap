@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "CrowdFilming.WebApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/alive",
+      "applicationUrl": "http://localhost:20202",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

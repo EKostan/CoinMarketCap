@@ -1,0 +1,237 @@
+{
+    "status": {
+        "timestamp": "2019-02-13T09:42:32.849Z",
+        "error_code": 0,
+        "error_message": null,
+        "elapsed": 5,
+        "credit_count": 1
+    },
+    "data": {
+        "BCH": {
+            "id": 1831,
+            "name": "Bitcoin Cash",
+            "symbol": "BCH",
+            "slug": "bitcoin-cash",
+            "circulating_supply": 17619450,
+            "total_supply": 17619450,
+            "max_supply": 21000000,
+            "date_added": "2017-07-23T00:00:00.000Z",
+            "num_market_pairs": 43,
+            "tags": [
+                "mineable"
+            ],
+            "platform": null,
+            "cmc_rank": 6,
+            "last_updated": "2019-02-13T09:42:02.000Z",
+            "quote": {
+                "BTC": {
+                    "price": 0.033720733155378824,
+                    "volume_24h": 65609.9454008888,
+                    "percent_change_1h": -0.4578,
+                    "percent_change_24h": 0.8319,
+                    "percent_change_7d": 1.455,
+                    "market_cap": 594140.7717945393,
+                    "last_updated": "2019-02-13T09:42:23.000Z"
+                }
+            }
+        },
+        "BTC": {
+            "id": 1,
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "slug": "bitcoin",
+            "circulating_supply": 17535375,
+            "total_supply": 17535375,
+            "max_supply": 21000000,
+            "date_added": "2013-04-28T00:00:00.000Z",
+            "num_market_pairs": 6622,
+            "tags": [
+                "mineable"
+            ],
+            "platform": null,
+            "cmc_rank": 1,
+            "last_updated": "2019-02-13T09:42:23.000Z",
+            "quote": {
+                "BTC": {
+                    "price": 1,
+                    "volume_24h": 1762692.9941877972,
+                    "percent_change_1h": 0,
+                    "percent_change_24h": 0,
+                    "percent_change_7d": 0,
+                    "market_cap": 17535375,
+                    "last_updated": "2019-02-13T09:42:23.000Z"
+                }
+            }
+        },
+        "BTG": {
+            "id": 2083,
+            "name": "Bitcoin Gold",
+            "symbol": "BTG",
+            "slug": "bitcoin-gold",
+            "circulating_supply": 17413923.588994,
+            "total_supply": 17513923.588994,
+            "max_supply": 21000000,
+            "date_added": "2017-10-23T00:00:00.000Z",
+            "num_market_pairs": 0,
+            "tags": [
+                "mineable"
+            ],
+            "platform": null,
+            "cmc_rank": 28,
+            "last_updated": "2019-02-13T09:42:03.000Z",
+            "quote": {
+                "BTC": {
+                    "price": 0.0029285192480640564,
+                    "volume_24h": 2059.3309163159806,
+                    "percent_change_1h": -0.0749,
+                    "percent_change_24h": 1.5041,
+                    "percent_change_7d": 7.5879,
+                    "market_cap": 50997.01041468564,
+                    "last_updated": "2019-02-13T09:42:23.000Z"
+                }
+            }
+        },
+        "CPT": {
+            "id": 2766,
+            "name": "Cryptaur",
+            "symbol": "CPT",
+            "slug": "cryptaur",
+            "circulating_supply": 7508381913.55409,
+            "total_supply": 27662180148.2785,
+            "max_supply": null,
+            "date_added": "2018-06-05T00:00:00.000Z",
+            "num_market_pairs": 0,
+            "tags": [],
+            "platform": {
+                "id": 1027,
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "slug": "ethereum",
+                "token_address": "0x88d50b466be55222019d71f9e8fae17f5f45fca1"
+            },
+            "cmc_rank": 288,
+            "last_updated": "2019-02-13T09:42:05.000Z",
+            "quote": {
+                "BTC": {
+                    "price": 2.6102053352967254e-7,
+                    "volume_24h": 3.166589186526899,
+                    "percent_change_1h": -0.0334,
+                    "percent_change_24h": 1.3132,
+                    "percent_change_7d": 3.2585,
+                    "market_cap": 1959.8418530204322,
+                    "last_updated": "2019-02-13T09:42:23.000Z"
+                }
+            }
+        },
+        "DOGE": {
+            "id": 74,
+            "name": "Dogecoin",
+            "symbol": "DOGE",
+            "slug": "dogecoin",
+            "circulating_supply": 118237808955.5,
+            "total_supply": 118237808955.5,
+            "max_supply": null,
+            "date_added": "2013-12-15T00:00:00.000Z",
+            "num_market_pairs": 202,
+            "tags": [
+                "mineable"
+            ],
+            "platform": null,
+            "cmc_rank": 24,
+            "last_updated": "2019-02-13T09:42:02.000Z",
+            "quote": {
+                "BTC": {
+                    "price": 5.224090964079166e-7,
+                    "volume_24h": 4445.459851882664,
+                    "percent_change_1h": 0.2155,
+                    "percent_change_24h": 0.1642,
+                    "percent_change_7d": -4.4771,
+                    "market_cap": 61768.50693769462,
+                    "last_updated": "2019-02-13T09:42:23.000Z"
+                }
+            }
+        },
+        "ETC": {
+            "id": 1321,
+            "name": "Ethereum Classic",
+            "symbol": "ETC",
+            "slug": "ethereum-classic",
+            "circulating_supply": 108242511,
+            "total_supply": 108242511,
+            "max_supply": 210000000,
+            "date_added": "2016-07-24T00:00:00.000Z",
+            "num_market_pairs": 3,
+            "tags": [
+                "mineable"
+            ],
+            "platform": null,
+            "cmc_rank": 18,
+            "last_updated": "2019-02-13T09:42:02.000Z",
+            "quote": {
+                "BTC": {
+                    "price": 0.0011290938529296315,
+                    "volume_24h": 52637.15967135245,
+                    "percent_change_1h": -0.3211,
+                    "percent_change_24h": 0.3268,
+                    "percent_change_7d": 3.9356,
+                    "market_cap": 122215.95379576801,
+                    "last_updated": "2019-02-13T09:42:23.000Z"
+                }
+            }
+        },
+        "ETH": {
+            "id": 1027,
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "slug": "ethereum",
+            "circulating_supply": 104840940.8741,
+            "total_supply": 104840940.8741,
+            "max_supply": null,
+            "date_added": "2015-08-07T00:00:00.000Z",
+            "num_market_pairs": 4255,
+            "tags": [
+                "mineable"
+            ],
+            "platform": null,
+            "cmc_rank": 2,
+            "last_updated": "2019-02-13T09:42:18.000Z",
+            "quote": {
+                "BTC": {
+                    "price": 0.03392272819596049,
+                    "volume_24h": 891251.0588869001,
+                    "percent_change_1h": -0.1399,
+                    "percent_change_24h": 2.0262,
+                    "percent_change_7d": 11.8491,
+                    "market_cap": 3556490.7410808587,
+                    "last_updated": "2019-02-13T09:42:23.000Z"
+                }
+            }
+        },
+        "XEM": {
+            "id": 873,
+            "name": "NEM",
+            "symbol": "XEM",
+            "slug": "nem",
+            "circulating_supply": 8999999999,
+            "total_supply": 8999999999,
+            "max_supply": null,
+            "date_added": "2015-04-01T00:00:00.000Z",
+            "num_market_pairs": 0,
+            "tags": [],
+            "platform": null,
+            "cmc_rank": 19,
+            "last_updated": "2019-02-13T09:42:01.000Z",
+            "quote": {
+                "BTC": {
+                    "price": 0.000010814592038319187,
+                    "volume_24h": 3070.761719985572,
+                    "percent_change_1h": 0.2163,
+                    "percent_change_24h": 0.9486,
+                    "percent_change_7d": 6.6504,
+                    "market_cap": 97331.3283340581,
+                    "last_updated": "2019-02-13T09:42:23.000Z"
+                }
+            }
+        }
+    }
+}

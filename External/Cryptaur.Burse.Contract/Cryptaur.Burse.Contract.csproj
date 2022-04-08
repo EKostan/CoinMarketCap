@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200428140601_v3_externalAddress.cs" />
+    <Compile Remove="Migrations\20200428140601_v3_externalAddress.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Nordavind.Infrastructure" Version="1.0.19" />
+    <PackageReference Include="Nordavind.Infrastructure.AspNetCore" Version="1.0.10" />
+  </ItemGroup>
+
+</Project>
